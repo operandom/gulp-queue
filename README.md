@@ -1,7 +1,7 @@
 gulp-queue
 ==========
 
-A gulp plugin to be sure to have the last modification of your files when you watch it.
+A gulp plugin to be sure to have the last modifications of your files when you watch them.
 
 
 Installation

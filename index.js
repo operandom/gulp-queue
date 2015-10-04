@@ -52,10 +52,8 @@ Queue.prototype.process = function() {
         task = this.tasks.shift();
 
         if (this.processing.hasOwnProperty(prefix + task)) {
-            //console.log('Task "' + task + '" already in processing queue');
             this.tasks.push(task);
         } else {
-            //console.log('Task "' + task + '" added   to processing queue');
             this.processing[prefix + task] = false;
         }
 

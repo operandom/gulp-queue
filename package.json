@@ -1,0 +1,25 @@
+{
+  "name": "gulp-queue",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/operandom/gulp-queue/"
+  },
+  "scripts": {
+    "start": "node node_modules/gulp/bin/gulp.js",
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "gulpplugin",
+    "task",
+    "queue"
+  ],
+  "author": "Operandom",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.3"
+  }
+}

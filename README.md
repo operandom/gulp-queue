@@ -64,7 +64,7 @@ Development
 
 ### Installation
 ```shell
-git clone git@github.com:operandom/gulp-queue.git
+git clone https://github.com/operandom/gulp-queue.git
 npm install
 ```
 

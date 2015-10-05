@@ -1,7 +1,7 @@
 {
   "name": "gulp-queue",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.2",
+  "description": "A gulp plugin to be sure to have the last modifications of your files when you watch them.",
   "main": "index.js",
   "repository": {
     "type": "git",

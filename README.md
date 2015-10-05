@@ -1,5 +1,6 @@
-gulp-queue
-==========
+# gulp-queue
+
+[![Build Status](https://travis-ci.org/operandom/gulp-queue.svg?branch=master)](https://travis-ci.org/operandom/gulp-queue)
 
 A gulp plugin to be sure to have the last modifications of your files when you watch them.
 
